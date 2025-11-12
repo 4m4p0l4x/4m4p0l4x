@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning on Operating Systems, Linux, and Asm x_86.
-- 👯 I’m looking to collaborate on mantaining CASA Pipeline in aur.
+- 👯 I’m looking to collaborate on more open soruce projects. 
 - 🤔 I’m looking for help with being a open source contribuitor
 - 💬 Fluent speaking English and Native Spanish
 - 📫 Skills: CI/CD, Back-end (python, php and JS), Cloud and Linux 🐧
