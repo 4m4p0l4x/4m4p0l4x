@@ -2,7 +2,8 @@
 **4m4p0l4x/4m4p0l4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-##      Hello Wordl! [profile@github~] cat "aboutme.md" | less  
+##  ✨ Hello World! ✨
+[profile@github~] cat "aboutme.md" | less  
             🛠️ Im Amapola Cancino, working to be full software developer.🛠️ 
             😶‍🌫️ Some of my interests areas are DevOps and Sysadmin, Back-End Development and OS Development 😶‍🌫️
 
@@ -14,15 +15,29 @@
 - 📫 Skills: CI/CD, Back-end (python, php and JS), Cloud and Linux 🐧
 - 😄 Pronouns: She/Her
 - ⚡ sudo apt install caffeine && sudo modprobe energy ⚡
-<!--- 
-## ==== Programing Lenguaje ====
-<p aling="center">
-<img src="" alt="" tittle="" width="40" height="40"/>
-<img src="" alt="" tittle="" width="40" height="40"/>
-<img src="" alt="" tittle="" width="40" height="40"/>
-<img src="" alt="" tittle="" width="40" height="40"/>
+
+## ==== Programing Lenguajes ====
+<p aling="center"> 
+            <strong> WebDevWebDev </strong>
+ <br><br/>            
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/javascript-light.png" alt="Javascript icon" tittle="js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/typescript.png" alt="Typescrit icon" tittle="Typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/reactjs.png" alt="React/JS Icon" tittle="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php-light.svg" alt="PHP-icon" tittle="icono de php" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/go.png" alt="GoLang Icon" tittle="icono de Go" width="40" height="40"/>
+  <br><br/>
+            <strong>Movile App </strong>
+ <br><br/>   
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg" alt="Java Icon" tittle="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" alt="Kotlin-icon" tittle="Kotlin" width="40" height="40"/>
+ <br><br/>   
+            <strong>  Miscelaneous </strong>
+<br><br/>   
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" alt="C icon" tittle="C programming lenguage" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rust.png" alt="rust icon" tittle="Rust" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/bc6da2e8821a32b3b7ab94834afe346f44586bb780cf4b044c142c55f10259c4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d6f6666696369616c2e737667" alt="Bash" tittle="" width="40" height="40"/>
 </p>
--->
+
 ## ==== SOME OF MY SKILLS ===
 
 <p align="center">
@@ -37,6 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="mysql-icon" tittle="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" alt="n8n icon" tittle="n8n" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" alt="nginx icon" tittle="nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bootstrap.png" alt="BootStrap" alt="bootstrap" tittle="bootstrap icon" width="40" height="40"/>
   
 </p>
 <h2 align="left"> <strong> === Favorites and Work Distros ==== </strong></h2>
