@@ -16,7 +16,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ sudo apt install caffeine && sudo modprobe energy ⚡
 
-## ==== Programing Lenguajes ====
+## ==== Programing Languages ====
 <p aling="center"> 
             <strong> WebDevWebDev </strong>
  <br><br/>            
@@ -38,7 +38,7 @@
 <img src="https://camo.githubusercontent.com/bc6da2e8821a32b3b7ab94834afe346f44586bb780cf4b044c142c55f10259c4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d6f6666696369616c2e737667" alt="Bash" tittle="" width="40" height="40"/>
 </p>
 
-## ==== SOME OF MY SKILLS ===
+## ==== Some of my Skills ===
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git-icon" tittle ="landpage-git-icon" width="40" height="40" />
@@ -53,7 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" alt="n8n icon" tittle="n8n" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" alt="nginx icon" tittle="nginx" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/bootstrap.png" alt="BootStrap" alt="bootstrap" tittle="bootstrap icon" width="40" height="40"/>
-  
 </p>
 <h2 align="left"> <strong> === Favorites and Work Distros ==== </strong></h2>
 <p align="center">
