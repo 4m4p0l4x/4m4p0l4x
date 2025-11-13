@@ -26,12 +26,12 @@
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php-light.svg" alt="PHP-icon" tittle="icono de php" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/go.png" alt="GoLang Icon" tittle="icono de Go" width="40" height="40"/>
   <br><br/>
-            <strong>Movile App </strong>
+            <strong>Mobile Apps </strong>
  <br><br/>   
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/java.svg" alt="Java Icon" tittle="Java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/kotlin.png" alt="Kotlin-icon" tittle="Kotlin" width="40" height="40"/>
  <br><br/>   
-            <strong>  Miscelaneous </strong>
+            <strong>  miscellaneous </strong>
 <br><br/>   
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" alt="C icon" tittle="C programming lenguage" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rust.png" alt="rust icon" tittle="Rust" width="40" height="40"/>
