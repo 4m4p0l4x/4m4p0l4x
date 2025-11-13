@@ -4,7 +4,7 @@
 -->
 ##  ✨ Hello World! ✨
 [profile@github~] cat "aboutme.md" | less  
-            🛠️ Im Amapola Cancino, working to be full software developer.🛠️ 
+            🛠️ I'm Amapola Cancino, working to be full software developer.🛠️ 
             😶‍🌫️ Some of my interests areas are DevOps and Sysadmin, Back-End Development and OS Development 😶‍🌫️
 
 - 🔭 I’m currently working on my skills 
@@ -18,7 +18,7 @@
 
 ## ==== Programing Languages ====
 <p aling="center"> 
-            <strong> WebDevWebDev </strong>
+            <strong> WebDev </strong>
  <br><br/>            
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/javascript-light.png" alt="Javascript icon" tittle="js" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/typescript.png" alt="Typescrit icon" tittle="Typescript" width="40" height="40"/>
