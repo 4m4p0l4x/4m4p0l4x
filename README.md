@@ -34,7 +34,7 @@
             <strong>  miscellaneous </strong>
 <br><br/>   
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" alt="C icon" tittle="C programming lenguage" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rust.png" alt="rust icon" tittle="Rust" width="40" height="40"/>
+<!--<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/rust.png" alt="rust icon" tittle="Rust" width="40" height="40"/>-->
 <img src="https://camo.githubusercontent.com/bc6da2e8821a32b3b7ab94834afe346f44586bb780cf4b044c142c55f10259c4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d6f6666696369616c2e737667" alt="Bash" tittle="" width="40" height="40"/>
 </p>
 
